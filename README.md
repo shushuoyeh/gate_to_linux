@@ -1,7 +1,7 @@
 # shushuoyeh.github.io
 Page for linux beginner
 
-- gunzip
+- gzip
 - wget
 - nohup
 - vim
