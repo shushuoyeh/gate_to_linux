@@ -6,7 +6,7 @@ Page for linux beginner
 - nohup
 - vim
 - nohup
-
+- tail/head/sed 尋找error時可以用sed找到出錯的位置
 編寫markdown
 
 
