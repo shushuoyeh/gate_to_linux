@@ -7,6 +7,8 @@ Page for linux beginner
 - vim
 - nohup
 - tail/head/sed 尋找error時可以用sed找到出錯的位置
+- rsync
+- scp
 編寫markdown
 
 
